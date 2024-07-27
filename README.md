@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import LN_PI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-ln-pi@esm/index.mjs';
+import LN_PI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-ln-pi@v0.2.2-esm/index.mjs';
 ```
 
 #### LN_PI
@@ -72,7 +72,7 @@ var bool = ( LN_PI === 1.1447298858494002 );
 <body>
 <script type="module">
 
-import LN_PI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-ln-pi@esm/index.mjs';
+import LN_PI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-ln-pi@v0.2.2-esm/index.mjs';
 
 console.log( LN_PI );
 // => 1.1447298858494002
